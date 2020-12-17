@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ali Taleb Zadeh Kasgari
+bio: Machine Learning Applied Researcher
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://alitk.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,28 +34,28 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: kasgari_ali
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: ali-taleb-zadeh-kasgari-b27621ab
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: alitk
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: alitk@vt.edu
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  alitak:
+    name: Ali Taleb Zadeh Kasgari1
+    bio: Applied ML Researcher
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
